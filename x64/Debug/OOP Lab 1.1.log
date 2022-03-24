@@ -1,0 +1,9 @@
+﻿  Goods.cpp
+C:\Users\LENOVO\source\repos\OOP Lab 1.1\Goods.h(11,33): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  Source.cpp
+C:\Users\LENOVO\source\repos\OOP Lab 1.1\Goods.h(11,33): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\OOP Lab 1.1\Source.cpp(8,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\LENOVO\source\repos\OOP Lab 1.1\Source.cpp(15,15): warning C4101: 't2': unreferenced local variable
+C:\Users\LENOVO\source\repos\OOP Lab 1.1\Source.cpp(15,19): warning C4101: 't3': unreferenced local variable
+  Generating Code...
+C:\Users\LENOVO\source\repos\OOP Lab 1.1\Goods.cpp(48): error C4716: 'Goods::cost': must return a value
